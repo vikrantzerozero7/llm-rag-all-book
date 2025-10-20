@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain_huggingface 
+pymupdf
+unidecode
+sentence_transformers
+jq
+pinecone
+langchain_pinecone==0.2.12
+lark 
+langchain_core
+pygithub
+git+https://github.com/huggingface/optimum-intel.git
+camelot-py
+aixplain
