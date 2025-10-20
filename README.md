@@ -1,7 +1,7 @@
 # PDF Chatbot with RAG
 A Streamlit-based PDF chatbot application that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded PDF documents. The application processes PDF files, creates vector embeddings, and provides intelligent responses using the DeepSeek language model.
 
-# App link: https://llm-rag-ypcbpwsrxnypbibdfmvert.streamlit.app/
+# App link: <a href="https://llm-rag-ypcbpwsrxnypbibdfmvert.streamlit.app/" target="_blank">Open the RAG LLM App</a>
 
 # Features
 Multi-PDF Support: Upload and process multiple PDF files simultaneously
